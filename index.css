@@ -1,0 +1,14 @@
+.about
+{
+    color:aqua;
+    font-family: "Matemasie", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  /*
+todos los estilos aplicados usando el selector "*", seran aplicado a todos los elementos
+  */
+}
+
+.fondo{
+    background-color: brown;
+}
